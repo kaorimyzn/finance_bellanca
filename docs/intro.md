@@ -4,11 +4,23 @@ sidebar_position: 1
 
 # Introduction
 
-![To-dolist](./todolist.png)
+![To-dolist](./Profesi-Finance_610-x-610-px.png)
 
-Welcome to our to-do list application! This web-based tool is designed to help you manage your daily tasks and stay organized. Whether you need to keep track of groceries to buy, tasks to complete at work, or personal goals to achieve, our application has you covered. With its clean and simple user interface, you can easily add, edit, and delete tasks, and mark them as complete when you're finished. You can also organize your tasks into different categories or lists to help you stay focused and on track. We hope that our to-do list application becomes a valuable tool in your daily life. Thank you for choosing us!
+Aplikasi pembukuan keuangan adalah sebuah aplikasi yang dapat membantu usaha kecil dan menengah (UMKM) dalam mengelola keuangan bisnis mereka. Aplikasi ini dapat membantu Anda mencatat dan mengelola pemasukan, pengeluaran, serta saldo keuangan bisnis Anda secara efisien.
 
-The to-do list application is a web-based tool that allows users to create, manage, and track their daily tasks. The application will be designed for use on desktop and mobile devices.
+Fitur-fitur yang tersedia pada aplikasi pembukuan keuangan untuk UMKM meliputi:
+
+Pencatatan transaksi keuangan: Aplikasi ini memungkinkan Anda untuk mencatat semua transaksi keuangan bisnis Anda, termasuk pemasukan, pengeluaran, dan pembayaran hutang.
+
+Analisis keuangan: Aplikasi ini dapat membantu Anda menganalisis laporan keuangan bisnis Anda dengan menyediakan laporan-laporan seperti laporan laba-rugi, laporan arus kas, dan laporan neraca.
+
+Pembuatan budget: Aplikasi ini juga memungkinkan Anda untuk membuat budget keuangan bisnis Anda sehingga Anda dapat mengelola pemasukan dan pengeluaran dengan lebih efisien.
+
+Notifikasi: Aplikasi ini akan memberikan notifikasi kepada Anda jika terdapat transaksi keuangan yang perlu Anda tindaklanjuti.
+
+Keamanan: Aplikasi ini menggunakan enkripsi untuk menjaga keamanan data keuangan bisnis Anda.
+
+Dengan menggunakan aplikasi pembukuan keuangan, UMKM dapat lebih mudah mengelola keuangan bisnis mereka dan membuat keputusan bisnis yang lebih tepat.
 
 # Background
 
