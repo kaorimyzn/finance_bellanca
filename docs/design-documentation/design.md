@@ -12,13 +12,13 @@ Antarmuka pengguna untuk aplikasi pembukuan keuangan UMKM ini sederhana, dengan 
 
 ## Wireframe
 
-![1](./img/wifeframe.png)
+![1](./img/wifeframe.webp)
 some caption.
 
 ## Mockups
 
 
-![2](./img/mockup.png)
+![2](./img/mockup.webp)
 some caption.
 
 # Demo
