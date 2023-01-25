@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Bellanca application',
+  title: 'Pembukuan Keuangan UMKM Application',
   tagline: 'Manajemen keuangan yang efisien untuk UMKM Anda.',
   url: 'https://docs-indol.vercel.app/',
   baseUrl: '/',
