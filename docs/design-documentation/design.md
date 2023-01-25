@@ -17,7 +17,6 @@ some caption.
 
 ## Mockups
 
-Screenshots of mockups
 
 ![2](./img/Aesthetic Phone Mockup Instagram Post.png)
 some caption.
