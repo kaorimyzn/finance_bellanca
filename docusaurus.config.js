@@ -6,13 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'To-do list application',
-  tagline: 'From groceries to goals, we have got you covered.',
+  title: 'Bellanca application',
+  tagline: 'Manajemen keuangan yang efisien untuk UMKM Anda.',
   url: 'https://docs-indol.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/bellanca.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -71,7 +71,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/fiqgant',
+            href: 'https://github.com/kaorimyzn',
             label: 'GitHub',
             position: 'right',
           },
@@ -115,12 +115,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/fiqgant',
+                href: 'https://github.com/kaorimyzn',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} krmyzn, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} gia, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
