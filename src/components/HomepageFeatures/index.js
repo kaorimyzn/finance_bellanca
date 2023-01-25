@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Handal',   
-    Svg: require('@site/static/img/handal.svg').default,
+    Svg: require('@site/static/img/handal1.svg').default,
     description: (
       <>
        Pembukuan keuangan yang mudah dan handal untuk usaha kecil Anda
