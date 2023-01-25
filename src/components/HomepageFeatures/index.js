@@ -13,8 +13,8 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Handal',  
-    src: 'img/bellanca.png', 
+    title: 'Handal',   
+    Svg: require('@site/static/img/handal.svg').default,
     description: (
       <>
        Pembukuan keuangan yang mudah dan handal untuk usaha kecil Anda
@@ -32,8 +32,7 @@ const FeatureList = [
   },
 ];
 
-function Feature({S
-  vg, title, description}) {
+function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">

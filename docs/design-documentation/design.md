@@ -25,4 +25,5 @@ Screenshots of mockups
 some caption.
 
 # Demo
-[To-do List App](https://todo.microsoft.com/)
+[Mockup Pembukuan Keuangan UMKM](https://www.figma.com/file/wFfcgxi3dVqlnqV700rZn5/UTS_GIA?node-id=0%3A1&t=7cY9s6XzIjrIipFr-0)
+[WifeFrame](https://www.figma.com/file/0WjLSPbN2JeraiW7XZTWfA/Userflow%2C-SiteMap%2C-Wireframe_Agia?node-id=0%3A1&t=b9iFsNxs29xlfH8A-0)
