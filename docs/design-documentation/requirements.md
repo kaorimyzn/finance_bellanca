@@ -4,8 +4,7 @@ sidebar_position: 2
 
 # Requirements
 
-- The application must be accessible from any modern web browser.
-- The application must allow users to create, edit, and delete tasks.
-- The application must allow users to mark tasks as complete.
-- The application must allow users to organize tasks into different categories or lists.
-- The application must have a responsive design to ensure that it works well on both desktop and mobile devices.
+- Aplikasi harus memiliki desain yang responsif untuk memastikannya bekerja dengan baik di desktop dan perangkat seluler.
+- Aplikasi harus mengizinkan pengguna untuk membuat, mengedit, dan menghapus laporan pemasukan, pengeluaran, produk, supplier, dan hutang piutang
+- Aplikasi harus dapat diakses dari browser web modern apa pun.
+- Laporan keuangan harus ditampilkan dalam format yang mudah dipahami dan dapat dikelola dengan mudah.

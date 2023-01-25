@@ -4,8 +4,8 @@ sidebar_position: 1
 
 # Introduction
 
-The to-do list application is a web-based tool that allows users to create, manage, and track their daily tasks. The application will be designed for use on desktop and mobile devices.
+Aplikasi keuangan khusus UMKM adalah aplikasi yang dirancang khusus untuk membantu pengelolaan keuangan dari usaha kecil dan menengah. Aplikasi ini biasanya menyediakan fitur seperti pembuatan laporan keuangan, pengelolaan pembayaran, dan pengelolaan stok. Beberapa aplikasi juga menyediakan fitur untuk mengelola pembelian dan penjualan serta fitur analitik untuk membantu dalam pengambilan keputusan bisnis.Aplikasi ini dapat digunakan melalui perangkat mobile atau komputer dan dapat diintegrasikan dengan sistem pembayaran elektronik untuk memudahkan transaksi. Keuntungan dari aplikasi ini adalah mempermudah pengelolaan keuangan UMKM, memudahkan dalam pengambilan keputusan bisnis dan mengurangi kesalahan manual dalam pengelolaan keuangan.
 
 # Background
 
-There are many to-do list applications available on the market, but many of them are either too complex or lack important features. The goal of this project is to create a simple, yet powerful to-do list application that meets the needs of a wide range of users.
+Aplikasi keuangan untuk UKM atau usaha kecil dan menengah (UMKM) muncul sebagai solusi untuk membantu pengelolaan keuangan dari UMKM. Aplikasi ini dapat membantu dalam hal pembuatan laporan keuangan, pengelolaan pembayaran, dan pengelolaan stok. Beberapa aplikasi juga menyediakan fitur untuk mengelola pembelian dan penjualan, serta fitur analitik untuk membantu dalam pengambilan keputusan bisnis. Aplikasi ini dapat digunakan melalui perangkat mobile atau komputer dan dapat diintegrasikan dengan sistem pembayaran elektronik untuk memudahkan transaksi.

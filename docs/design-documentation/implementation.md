@@ -4,16 +4,17 @@ sidebar_position: 4
 
 # Implementation details
 
-The to-do list application will use a MySQL database to store the tasks and other application data. The database will consist of a single tasks table, with columns for the task title, description, due date, and completion status. The backend server will use the Flask-SQLAlchemy library to interact with the database and perform CRUD (create, read, update, delete) operations on the tasks.
+Aplikasi pembukuan keuangan akan menggunakan database MySQL untuk menyimpan laporan pembukuan dan data aplikasi lainnya. Basis data akan terdiri dari satu tabel laporan, dengan kolom untuk judul laporan, deskripsi, tanggal, dan status. Server backend akan menggunakan library Laravel untuk berinteraksi dengan database dan melakukan operasi CRUD (buat, baca, perbarui, hapus) pada tugas.
 
 # Testing
 
-The to-do list application will be tested using a combination of automated and manual testing techniques. Automated tests will be written using the Pytest framework and will cover a range of scenarios, including creation and completion of tasks, filtering and sorting of tasks, and error handling. Manual testing will be performed by a team of testers who will manually test the application on a range of devices and browsers to ensure that it works as expected.
+Melakukan pengujian pada setiap unit atau komponen aplikasi secara terpisah untuk memastikan bahwa setiap unit berfungsi dengan baik. Melakukan pengujian pada setiap fitur aplikasi untuk memastikan bahwa setiap fitur berfungsi sesuai dengan spesifikasi. Melakukan pengujian pada performa aplikasi untuk memastikan bahwa aplikasi dapat bekerja dengan baik dan cepat dalam berbagai kondisi. Pengujian dari awal hingga akhir proses bisnis untuk memastikan bahwa seluruh sistem bekerja dengan baik. Semua metode testing harus dilakukan secara teratur dan diperbarui untuk menjamin kualitas aplikasi dan memenuhi standar yang ditentukan.
+
 
 # Deployment
 
-The to-do list application will be deployed to a cloud-based virtual machine running Ubuntu Linux. The application will be containerized using Docker and deployed using a continuous integration and delivery (CI/CD) pipeline. The pipeline will be configured to automatically deploy new versions of the application whenever code changes are made and pushed to the repository.
+Aplikasi pembukuan keuangan umkm akan diterapkan ke mesin virtual berbasis cloud yang menjalankan Ubuntu Linux. Aplikasi akan di-container menggunakan Docker dan di-deploy menggunakan continuous integration and delivery (CI/CD) pipeline. Pipeline akan dikonfigurasi untuk menerapkan versi baru aplikasi secara otomatis setiap kali perubahan kode dibuat dan didorong ke repositori.
 
 # Maintenance
 
-The to-do list application will be maintained by a team of developers who will be responsible for fixing any bugs, adding new features, and ensuring that the application remains up-to-date. The team will use a agile development process, with regular updates and releases to keep the application fresh and useful for users.
+Aplikasi pembukuan keuangan akan dikelola oleh tim pengembang yang akan bertanggung jawab untuk memperbaiki bug, menambahkan fitur baru, dan memastikan bahwa aplikasi tetap up-to-date. Tim akan menggunakan proses pengembangan yang gesit, dengan pembaruan dan rilis reguler untuk menjaga agar aplikasi tetap segar dan bermanfaat bagi pengguna.
