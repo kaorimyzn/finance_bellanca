@@ -12,16 +12,14 @@ Antarmuka pengguna untuk aplikasi pembukuan keuangan UMKM ini sederhana, dengan 
 
 ## Wireframe
 
-Screenshots of wireframes
-
-![1](./img/app_todo.webp)
+![1](./img/Aesthetic Phone Mockup Instagram Post (1).png)
 some caption.
 
 ## Mockups
 
 Screenshots of mockups
 
-![2](./img/app_todo2.webp)
+![2](./img/Aesthetic Phone Mockup Instagram Post.png)
 some caption.
 
 # Demo
