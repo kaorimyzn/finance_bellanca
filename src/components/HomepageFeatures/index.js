@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Mudah',
-    Svg: require('@site/static/img/mudah.jpg').default,
+    Svg: require('@site/static/img/mudah.svg').default,
     description: (
       <>
         Mudahkan pengelolaan keuangan usaha Anda dengan aplikasi pembukuan kami
@@ -13,8 +13,8 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Handal',
-    Svg: require('@site/static/img/handal.jpg').default,
+    title: 'Handal',   
+    Svg: require('@site/static/img/handal.svg').default,
     description: (
       <>
        Pembukuan keuangan yang mudah dan handal untuk usaha kecil Anda
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Canggih',
-    Svg: require('@site/static/img/canggih.jpg').default,
+    Svg: require('@site/static/img/canggih.svg').default,
     description: (
       <>
         "Efisiensi keuangan usaha Anda dengan aplikasi pembukuan yang canggih
