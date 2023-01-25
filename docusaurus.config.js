@@ -57,10 +57,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'To-do List Application',
+        title: 'Bellanca',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/bellanca.png',
         },
         items: [
           {
@@ -120,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} fiq, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} krmyzn, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
