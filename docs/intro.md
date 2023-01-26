@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-![To-dolist](./Profesi-Finance_610-x-610-px.png)
+![To-dolist](./mockup.jpg)
 
 Aplikasi pembukuan keuangan adalah sebuah aplikasi yang dapat membantu usaha kecil dan menengah (UMKM) dalam mengelola keuangan bisnis mereka. Aplikasi ini dapat membantu Anda mencatat dan mengelola pemasukan, pengeluaran, serta saldo keuangan bisnis Anda secara efisien.
 
