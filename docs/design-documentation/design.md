@@ -12,12 +12,9 @@ Antarmuka pengguna untuk aplikasi pembukuan keuangan UMKM ini sederhana, dengan 
 
 ## UML
 
-![Use-case](./img/Use  Case BellancaRevisi.webp)
-
-![Class-Diagram](./img/Class Diagram.webp)
-
-![Activity-Diagram](./img/Activity Diagram.webp)
-
+![1](./img/activitydiagram.webp)
+![2](./img/classdiagram.webp)
+![3](./img/usecase.webp)
 
 ## Wireframe
 
