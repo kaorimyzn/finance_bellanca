@@ -10,6 +10,15 @@ Aplikasi pembukuan keuangan UMKM akan dibangun menggunakan arsitektur standar, d
 
 Antarmuka pengguna untuk aplikasi pembukuan keuangan UMKM ini sederhana, dengan fokus pada kemudahan penggunaan. Layar utama akan menampilkan saldo user, list supplier dan produk, dengan kemampuan memfilter dan mengurutkan laporan berdasarkan bulan sampai tahun. Setiap produk dan supplier akan memiliki nama produk, deskripsi, nama supplier, dan harga produk dan akan ditampilkan dalam tata letak seperti kartu. Pengguna akan dapat membuat, mengedit, dan menghapus produk dan supplier menggunakan input sederhana. Pengguna juga mampu membuat, mengedit, dan menghapus laporan pemasukan keuangan dan pengeluaran serta hutang piutang usaha.
 
+## UML
+
+![Use-case](./img/Use  Case BellancaRevisi.png)
+
+![Class-Diagram](./img/Class Diagram.png)
+
+![Activity-Diagram](./img/Activity Diagram.png)
+
+
 ## Wireframe
 
 ![1](./img/wifeframe.webp)
