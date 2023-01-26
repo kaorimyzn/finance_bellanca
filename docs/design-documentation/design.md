@@ -13,13 +13,14 @@ Antarmuka pengguna untuk aplikasi pembukuan keuangan UMKM ini sederhana, dengan 
 ## Wireframe
 
 ![1](./img/wifeframe.webp)
-some caption.
+
+Gambar diatas merupakan wifeframe dari aplikasi pembukuan keuangan UMKM. Wifeframe ini berguna untuk gambaran awal yang akan ditampilkan pada aplikasi. 
 
 ## Mockups
 
 
 ![2](./img/mockup.webp)
-some caption.
+Gambar diatas merupakan mockup atau desain final dari aplikasi pembukuan keuangan UMKM. Mockup ini bertujuan untuk mempermudah programmer dalam tahap pengkodingan alur dan function dari aplikasi.
 
 # Demo
 [Mockup Pembukuan Keuangan UMKM](https://www.figma.com/file/wFfcgxi3dVqlnqV700rZn5/UTS_GIA?node-id=0%3A1&t=7cY9s6XzIjrIipFr-0)
